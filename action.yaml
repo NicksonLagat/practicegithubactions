@@ -1,6 +1,6 @@
 name: "Nick's Github Action"
 description: "Check simple files"
 runs:
-  using: node16
+  using: node12
   main: index.js
   
